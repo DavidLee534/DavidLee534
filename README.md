@@ -48,21 +48,14 @@ CS·백엔드·AI·협업 노트를 교재형으로 정리하며,<br />
   <img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0F172A&fire=334155&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
 </picture>
 
-</div>
-
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-dark-v6.svg" />
-  <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-light-v5.svg" width="100%" alt="About Me" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshii.com/94A3B8/DavidLee534" />
+  <img src="https://ghchart.rshii.com/334155/DavidLee534" width="100%" alt="GitHub contribution calendar" />
 </picture>
 
-- **Languages** · Java와 Python을 포함해 언어 문법과 실습을 병행하고 있습니다.
-- **Backend** · Spring · NestJS · FastAPI를 병렬로 두고 요청·DI·ORM·인증·테스트를 정리했습니다.
-- **Computer Science** · 자료구조부터 설계 패턴까지 CS 교재 트랙을 Ready로 정리했습니다.
-- **AI / ML** · 학습·평가·임베딩과 LLM·RAG·에이전트 개념을 짧은 코드와 함께 정리했습니다.
-- **Collaboration** · Git·PR·리뷰·문서·CI 습관을 협업 교재 트랙으로 정리했습니다.
-- **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
+</div>
 
 <br />
 

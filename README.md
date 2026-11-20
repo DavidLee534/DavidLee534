@@ -17,9 +17,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
-<a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 기술 블로그" /></a>
-<a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study_Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 기록 저장소" /></a>
-<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
+<a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory · 기술 블로그" /></a>
+<a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study_Notes-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="학습 기록 저장소" /></a>
+<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
 
 <p><a href="#01--nyan-cafe">Nyan Cafe</a> · <a href="#02--resuit">Resuit</a> · <a href="#currently-building--remake">REMAKE</a></p>
 
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/Docker_Compose-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
 </p>
 
-[저장소 살펴보기 →](https://github.com/DavidLee534/ncafe7-team-4)
+<a href="https://github.com/DavidLee534/ncafe7-team-4"><img src="https://img.shields.io/badge/Repository-334155?style=flat-square&logo=github&logoColor=white" alt="저장소 살펴보기" /></a>
 
 ### 02 · Resuit
 **개발자 소통과 이력서 피드백을 연결하는 SNS | 팀 프로젝트**
@@ -126,7 +126,7 @@
   <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-[저장소 살펴보기 →](https://github.com/DavidLee534/Resuit_Prj)
+<a href="https://github.com/DavidLee534/Resuit_Prj"><img src="https://img.shields.io/badge/Repository-334155?style=flat-square&logo=github&logoColor=white" alt="저장소 살펴보기" /></a>
 
 ### 03 · Igloo
 **개인 파일 서버 | 개인 프로젝트**
@@ -159,7 +159,9 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - PR 필수 CI 검사 기준 문서화
 - GitHub Actions 기반 Campfire PR 알림과 이슈·PR 템플릿 구성
 
-[프로젝트 살펴보기 →](https://github.com/likelion-backendschool-9th/REMAKE) · [CI 작업 PR →](https://github.com/likelion-backendschool-9th/REMAKE/pull/18) · [알림 작업 PR →](https://github.com/likelion-backendschool-9th/REMAKE/pull/19)
+<a href="https://github.com/likelion-backendschool-9th/REMAKE"><img src="https://img.shields.io/badge/Repository-334155?style=flat-square&logo=github&logoColor=white" alt="프로젝트 살펴보기" /></a>
+<a href="https://github.com/likelion-backendschool-9th/REMAKE/pull/18"><img src="https://img.shields.io/badge/PR%20%C2%B7%20CI%20%EA%B2%80%EC%82%AC-2563EB?style=flat-square&logo=github&logoColor=white" alt="CI 작업 PR" /></a>
+<a href="https://github.com/likelion-backendschool-9th/REMAKE/pull/19"><img src="https://img.shields.io/badge/PR%20%C2%B7%20%EC%95%8C%EB%A6%BC%20%EC%9E%90%EB%8F%99%ED%99%94-2563EB?style=flat-square&logo=github&logoColor=white" alt="알림 작업 PR" /></a>
 
 <br />
 
@@ -172,7 +174,8 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - **해결** · 메뉴 이름에 검색어가 포함되는 LIKE 조건으로 변경했습니다.
 - **결과** · 메뉴 이름 전체를 입력하지 않아도 관련 메뉴를 찾을 수 있도록 개선했습니다.
 
-[현재 검색 쿼리 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java) · [검색 조건 처리 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/service/admin/DfMenuService.java)
+<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20%EA%B2%80%EC%83%89%20%EC%BF%BC%EB%A6%AC-475569?style=flat-square&logo=github&logoColor=white" alt="현재 검색 쿼리 보기" /></a>
+<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/service/admin/DfMenuService.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4-475569?style=flat-square&logo=github&logoColor=white" alt="검색 조건 처리 보기" /></a>
 
 #### 메뉴 조회에서 발생한 N+1 개선
 
@@ -181,7 +184,7 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - **해결** · fetch join으로 메뉴와 카테고리를 함께 조회하도록 변경했습니다.
 - **결과** · 해당 목록 조회에서 카테고리 접근으로 발생하는 추가 쿼리를 줄였습니다.
 
-[fetch join 적용 코드 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java)
+<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20Fetch%20Join-475569?style=flat-square&logo=github&logoColor=white" alt="fetch join 적용 코드 보기" /></a>
 
 <br />
 
@@ -226,7 +229,8 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 개념을 이해하고 직접 실습한 내용을 주제별로 정리합니다.
 
-[학습 저장소 살펴보기 →](https://github.com/DavidLee534/dev-study) · [티스토리 기술 블로그 →](https://golden534.tistory.com/)
+<a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study%20Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 저장소 살펴보기" /></a>
+<a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 기술 블로그" /></a>
 
 <br />
 

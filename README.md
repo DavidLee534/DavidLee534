@@ -207,6 +207,14 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 <a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study%20Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 저장소 살펴보기" /></a>
 <a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 기술 블로그" /></a>
 
+### Recent Writing · 최근 글
+
+| 날짜 | 글 |
+| :--- | :--- |
+| 2026.11.19 | [DEV NOTES — 이 블로그의 목표](https://golden534.tistory.com/entry/DEV-NOTES-%E2%80%94-%EC%9D%B4-%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98-%EB%AA%A9%ED%91%9C) |
+
+글이 더 쌓이면 여기에 최근 글을 이어서 올립니다.
+
 <br />
 
 <picture>

@@ -18,12 +18,37 @@
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
 <p>
-<a href="https://golden534.tistory.com/"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-tistory-v1.svg" width="32%" alt="Tistory · 개발하며 배운 내용을 기록합니다. 블로그 방문하기" /></a>
-<a href="https://github.com/DavidLee534/dev-study"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-study-v1.svg" width="32%" alt="Study Notes · 개념과 실습 내용을 정리합니다. 학습 기록 살펴보기" /></a>
-<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-projects-v1.svg" width="32%" alt="Projects · 직접 만든 서비스를 소개합니다. 프로젝트 둘러보기" /></a>
+<a href="https://golden534.tistory.com/"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-tistory-v1.svg?v=2" width="32%" alt="Tistory · 개발하며 배운 내용을 기록합니다. 블로그 방문하기" /></a>
+<a href="https://github.com/DavidLee534/dev-study"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-study-v1.svg?v=2" width="32%" alt="Study Notes · 개념과 실습 내용을 정리합니다. 학습 기록 살펴보기" /></a>
+<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-projects-v1.svg?v=2" width="32%" alt="Projects · 직접 만든 서비스를 소개합니다. 프로젝트 둘러보기" /></a>
 </p>
 
 <p><a href="#01--nyan-cafe">Nyan Cafe</a> · <a href="#02--resuit">Resuit</a> · <a href="#currently-building--remake">REMAKE</a></p>
+
+</div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
+  <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E2E8F0&icon_color=94A3B8&text_color=E2E8F0&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=334155&text_color=0F172A&border_radius=8" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=0B1220&title_color=E2E8F0&text_color=E2E8F0&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=0F172A&border_radius=8" height="165" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=0B1220&stroke=334155&ring=E2E8F0&fire=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
+  <img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0F172A&fire=334155&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
+</picture>
 
 </div>
 
@@ -187,31 +212,6 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - **결과** · 해당 목록 조회에서 카테고리 접근으로 발생하는 추가 쿼리를 줄였습니다.
 
 <a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20Fetch%20Join-475569?style=flat-square&logo=github&logoColor=white" alt="fetch join 적용 코드 보기" /></a>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
-  <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E2E8F0&icon_color=94A3B8&text_color=E2E8F0&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=334155&text_color=0F172A&border_radius=8" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=0B1220&title_color=E2E8F0&text_color=E2E8F0&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=0F172A&border_radius=8" height="165" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=0B1220&stroke=334155&ring=E2E8F0&fire=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
-  <img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0F172A&fire=334155&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
-</picture>
-
-</div>
 
 <br />
 

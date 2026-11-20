@@ -125,6 +125,14 @@
 
 개발자의 일상과 기술 지식 공유, 이력서 피드백, 기업의 인재 탐색을 연결하는 서비스를 기획하고 팀 프로젝트로 진행했습니다.
 
+<p>
+  <img src="https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
 [저장소 살펴보기 →](https://github.com/DavidLee534/Resuit_Prj)
 
 ### 03 · Igloo

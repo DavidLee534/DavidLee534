@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Sangho Lee — Backend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" alt="Typing headline" />
 
 **코드에서 실행 환경까지, 서비스의 흐름을 이해하는 개발자를 지향합니다.**
 
@@ -54,10 +54,10 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&icon_color=5EEAD4&text_color=FFFFFF&border_radius=10" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=FFFFFF&border_radius=10" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=0D9488&text_color=0F172A&border_radius=10" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F766E&text_color=0F172A&border_radius=10" height="165" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=0B1220&stroke=1F2937&ring=5EEAD4&fire=5EEAD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5EEAD4&sideLabels=A7F3D0&dates=E2E8F0" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=F8FAFC&stroke=CCFBF1&ring=0D9488&fire=0D9488&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F766E&sideLabels=334155&dates=64748B" alt="GitHub streak" />
 
 </div>
 

@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="">
   <defs>
     <linearGradient id="d" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#0F766E"/>
-      <stop offset="100%" stop-color="#020617"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#CCFBF1"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
     </linearGradient>
-    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#E2E8F0" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
   </defs>
-  <rect width="1200" height="56" fill="url(#d)"/>
-  <rect width="1200" height="56" fill="url(#g)"/>
-  <path d="M0 28 H1200" stroke="#5EEAD4" stroke-opacity="0.35" stroke-width="1"/>
-  <circle cx="600" cy="28" r="3" fill="#5EEAD4"/>
+  <rect width="1200" height="48" fill="url(#d)"/>
+  <path d="M80 24 H520" stroke="#99F6E4" stroke-width="2"/>
+  <path d="M680 24 H1120" stroke="#99F6E4" stroke-width="2"/>
+  <circle cx="600" cy="24" r="4" fill="#0D9488"/>
 </svg>

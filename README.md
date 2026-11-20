@@ -25,7 +25,7 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-light-v5.svg" width="100%" alt="About Me" />
 </picture>
 
@@ -39,7 +39,7 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-light-v5.svg" width="100%" alt="Tech Stack" />
 </picture>
 
@@ -71,7 +71,7 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
 </picture>
 
@@ -96,7 +96,7 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-light-v5.svg" width="100%" alt="Selected Projects" />
 </picture>
 
@@ -147,7 +147,7 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-light-v5.svg" width="100%" alt="Learning Focus" />
 </picture>
 
@@ -159,6 +159,6 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 | Infrastructure | Docker, 네트워크, 서버 실행 환경 |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-dark-v5.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-light-v5.svg" width="100%" alt="footer" />
 </picture>

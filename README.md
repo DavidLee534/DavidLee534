@@ -15,13 +15,10 @@
 Java와 Spring Boot로 웹 서비스를 만들고,<br />
 로그와 데이터를 바탕으로 문제의 원인을 확인하며 배우고 있습니다.
 
-<img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
-<p>
-  <a href="https://github.com/DavidLee534"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
-</p>
+<a href="https://github.com/DavidLee534"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
 
 </div>
 
@@ -48,11 +45,8 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 <p>
   <img src="https://img.shields.io/badge/Java_21-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
-  &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
@@ -60,13 +54,9 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 <p>
   <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  &nbsp;
   <img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Gradle-475569?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-  &nbsp;
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-64748B?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
@@ -112,17 +102,7 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 - 완전일치 조회 조건을 수정해 메뉴 이름 부분검색 지원
 - Hibernate 로그로 N+1 문제를 확인하고 fetch join 적용
 
-<p>
-  <img src="https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker_Compose-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-</p>
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker Compose`
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/ncafe7-team-4)
 
@@ -141,15 +121,7 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - 파일 업로드·폴더 생성·파일 목록 조회 기능 구현
 - Windows에서 서버를 실행하고 Mac에서 로컬 네트워크 접속 검증
 
-<p>
-  <img src="https://img.shields.io/badge/Java_21-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Embedded_Tomcat-334155?style=flat-square" alt="Embedded Tomcat" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Servlet-475569?style=flat-square" alt="Servlet" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-</p>
+`Java 21` `Embedded Tomcat` `Servlet` `Maven`
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/igloo-server)
 

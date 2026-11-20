@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/banner-light.svg?v=2" width="100%" alt="Sangho Lee — Backend Developer" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/banner-light.svg?v=3" width="100%" alt="Sangho Lee — Backend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" alt="Typing headline" />
 
@@ -16,18 +16,18 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-light.svg?v=2" width="100%" alt="About Me" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-light.svg?v=3" width="100%" alt="About Me" />
 
 - **Backend** · Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
 - **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
 - **Infrastructure** · Docker와 서버 구성을 실습하며 서비스 실행 환경을 이해하고 있습니다.
 - **Collaboration** · 팀 프로젝트에서 브랜치와 Pull Request를 활용해 협업한 경험이 있습니다.
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-light.svg?v=2" width="100%" alt="Tech Stack" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-light.svg?v=3" width="100%" alt="Tech Stack" />
 
 **Backend**
 
@@ -48,9 +48,9 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-64748B?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light.svg?v=2" width="100%" alt="GitHub Analytics" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light.svg?v=3" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -61,9 +61,9 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-light.svg?v=2" width="100%" alt="Selected Projects" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-light.svg?v=3" width="100%" alt="Selected Projects" />
 
 ### 01 · Nyan Cafe
 **카페 웹 서비스 | 팀 프로젝트**
@@ -79,7 +79,7 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/ncafe7-team-4)
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
 ### 02 · Resuit
 **개발자 소통과 이력서 피드백을 연결하는 SNS | 팀 프로젝트**
@@ -88,7 +88,7 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/Resuit_Prj)
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
 ### 03 · Igloo
 **개인 파일 서버 | 개인 프로젝트**
@@ -102,9 +102,9 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/igloo-server)
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=2" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/divider-light.svg?v=3" width="100%" alt="" />
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-light.svg?v=2" width="100%" alt="Learning Focus" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-light.svg?v=3" width="100%" alt="Learning Focus" />
 
 | 주제 | 학습 방향 |
 | :--- | :--- |
@@ -113,4 +113,4 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 | Infrastructure | Docker, 네트워크, 서버 실행 환경 |
 | Computer Science | HTTP, 데이터베이스, 운영체제 기초 |
 
-<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-light.svg?v=2" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-light.svg?v=3" width="100%" alt="footer" />

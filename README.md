@@ -17,9 +17,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
-<a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory · 기술 블로그" /></a>
-<a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study_Notes-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="학습 기록 저장소" /></a>
-<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
+<p>
+<a href="https://golden534.tistory.com/"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-tistory-v1.svg" width="32%" alt="Tistory · 개발하며 배운 내용을 기록합니다. 블로그 방문하기" /></a>
+<a href="https://github.com/DavidLee534/dev-study"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-study-v1.svg" width="32%" alt="Study Notes · 개념과 실습 내용을 정리합니다. 학습 기록 살펴보기" /></a>
+<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/link-projects-v1.svg" width="32%" alt="Projects · 직접 만든 서비스를 소개합니다. 프로젝트 둘러보기" /></a>
+</p>
 
 <p><a href="#01--nyan-cafe">Nyan Cafe</a> · <a href="#02--resuit">Resuit</a> · <a href="#currently-building--remake">REMAKE</a></p>
 

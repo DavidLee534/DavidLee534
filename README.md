@@ -18,6 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
 <a href="https://m.blog.naver.com/mutual_99"><img src="https://img.shields.io/badge/Tech_Blog-03C75A?style=flat-square&logo=naver&logoColor=white" alt="네이버 기술 블로그" /></a>
+<a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study_Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 기록 저장소" /></a>
 <a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
 
 <p><a href="#01--nyan-cafe">Nyan Cafe</a> · <a href="#02--resuit">Resuit</a> · <a href="#currently-building--remake">REMAKE</a></p>
@@ -162,6 +163,28 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 <br />
 
+### Problem Solving · 문제 해결 기록
+
+#### 메뉴 이름 일부로도 검색할 수 있도록
+
+- **문제** · 메뉴 이름의 일부를 입력했을 때 기대한 메뉴가 검색되지 않았습니다.
+- **원인** · 전달된 검색어와 조회 조건을 비교해 완전일치 조건을 확인했습니다.
+- **해결** · 메뉴 이름에 검색어가 포함되는 LIKE 조건으로 변경했습니다.
+- **결과** · 메뉴 이름 전체를 입력하지 않아도 관련 메뉴를 찾을 수 있도록 개선했습니다.
+
+[현재 검색 쿼리 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java) · [검색 조건 처리 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/service/admin/DfMenuService.java)
+
+#### 메뉴 조회에서 발생한 N+1 개선
+
+- **문제** · 메뉴 목록을 조회한 뒤 연관된 카테고리를 읽을 때 추가 조회가 발생했습니다.
+- **확인** · Hibernate SQL 로그로 메뉴 조회와 카테고리 조회 흐름을 확인했습니다.
+- **해결** · fetch join으로 메뉴와 카테고리를 함께 조회하도록 변경했습니다.
+- **결과** · 해당 목록 조회에서 카테고리 접근으로 발생하는 추가 쿼리를 줄였습니다.
+
+[fetch join 적용 코드 보기 →](https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java)
+
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
@@ -198,6 +221,23 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 | Backend | Spring Boot, API, 데이터 조회와 쿼리 개선 |
 | Computer Science | 자료구조, 알고리즘, HTTP, 운영체제 기초 |
 | Infrastructure | Docker, 네트워크, 서버 실행 환경 |
+
+### Study Notes · 학습 기록
+
+개념을 이해하고 직접 실습한 내용을 주제별로 정리합니다.
+
+[학습 저장소 살펴보기 →](https://github.com/DavidLee534/dev-study) · [CS 교재형 노트 →](https://github.com/DavidLee534/dev-study/tree/main/cs) · [네이버 기술 블로그 →](https://m.blog.naver.com/mutual_99)
+
+<br />
+
+### Education & Awards · 교육과 수상
+
+| 구분 | 내용 |
+| :--- | :--- |
+| 교육 | 멋쟁이사자처럼 백엔드스쿨 9기 · Java와 Spring 기반 백엔드 학습 및 팀 프로젝트 |
+| 수상 | 2022 충북 ICT 성과발표회 · Python 비행기 슈팅 게임 출품 및 수상 |
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-dark-v6.svg" />

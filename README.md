@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
-<a href="https://m.blog.naver.com/mutual_99"><img src="https://img.shields.io/badge/Tech_Blog-03C75A?style=flat-square&logo=naver&logoColor=white" alt="네이버 기술 블로그" /></a>
+<a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 기술 블로그" /></a>
 <a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study_Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 기록 저장소" /></a>
 <a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
 
@@ -226,7 +226,7 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 개념을 이해하고 직접 실습한 내용을 주제별로 정리합니다.
 
-[학습 저장소 살펴보기 →](https://github.com/DavidLee534/dev-study) · [CS 교재형 노트 →](https://github.com/DavidLee534/dev-study/tree/main/cs) · [네이버 기술 블로그 →](https://m.blog.naver.com/mutual_99)
+[학습 저장소 살펴보기 →](https://github.com/DavidLee534/dev-study) · [티스토리 기술 블로그 →](https://golden534.tistory.com/)
 
 <br />
 

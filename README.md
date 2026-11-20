@@ -17,8 +17,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
-<a href="https://github.com/DavidLee534"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://m.blog.naver.com/mutual_99"><img src="https://img.shields.io/badge/Tech_Blog-03C75A?style=flat-square&logo=naver&logoColor=white" alt="네이버 기술 블로그" /></a>
 <a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0F172A?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
+
+<p><a href="#01--nyan-cafe">Nyan Cafe</a> · <a href="#02--resuit">Resuit</a> · <a href="#currently-building--remake">REMAKE</a></p>
 
 </div>
 
@@ -71,37 +73,16 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
-  <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E2E8F0&icon_color=94A3B8&text_color=E2E8F0&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=334155&text_color=0F172A&border_radius=8" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=0B1220&title_color=E2E8F0&text_color=E2E8F0&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=0F172A&border_radius=8" height="165" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=0B1220&stroke=334155&ring=E2E8F0&fire=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
-  <img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0F172A&fire=334155&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
-</picture>
-
-</div>
-
-<br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-projects-light-v5.svg" width="100%" alt="Selected Projects" />
 </picture>
 
 ### 01 · Nyan Cafe
 **카페 웹 서비스 | 팀 프로젝트**
+
+<a href="https://github.com/DavidLee534/ncafe7-team-4"><img src="https://raw.githubusercontent.com/DavidLee534/ncafe7-team-4/develop/frontend/public/images/hero/moka-secret-bakery.png" width="100%" alt="Nyan Cafe 서비스에 사용한 고양이 카페 대표 일러스트" /></a>
+
+<sub>서비스 대표 일러스트 · 저장소의 실제 이미지 자산</sub>
 
 관리자 메뉴 도메인의 백엔드 개발을 담당했습니다.
 
@@ -123,7 +104,18 @@
 ### 02 · Resuit
 **개발자 소통과 이력서 피드백을 연결하는 SNS | 팀 프로젝트**
 
-개발자의 일상과 기술 지식 공유, 이력서 피드백, 기업의 인재 탐색을 연결하는 서비스를 기획하고 팀 프로젝트로 진행했습니다.
+<a href="https://github.com/DavidLee534/Resuit_Prj"><img src="https://raw.githubusercontent.com/DavidLee534/Resuit_Prj/main/docs/images/screens/feed.png" width="100%" alt="Resuit 홈 피드 실제 시연 화면" /></a>
+
+<sub>시연용 가상 데이터로 구성한 실제 서비스 화면</sub>
+
+개발자의 활동과 이력서 피드백, 기업의 인재 탐색을 연결하는 SNS입니다.
+
+**담당 기능**
+
+- 프로필 조회·수정, 위젯·경력·활동 탭과 대표 이력서 고정
+- GitHub 기여·저장소 동기화와 블로그 RSS 소유권 검증·글 수집
+- 현직자 인증 상태·대표 배지 표시 및 피드·댓글·피드백 배지 노출
+- 피드백 게시판 목록과 상세 화면 연결, 기업 이메일 인증 취소
 
 <p>
   <img src="https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -150,7 +142,48 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
-[저장소 살펴보기 →](https://github.com/DavidLee534/igloo-server)
+
+
+<br />
+
+### Currently Building · REMAKE
+
+**영수증 OCR과 AI를 활용한 식재료·식단 관리 서비스 | 팀 프로젝트 진행 중**
+
+영수증 인식, 냉장고 재료 관리, 맞춤 레시피와 주간 식단 추천을 목표로 개발하고 있습니다.
+
+**현재 기여**
+
+- 프론트엔드 lint·타입 검사·빌드 및 백엔드·프론트엔드 Docker 이미지 빌드 CI 추가
+- PR 필수 CI 검사 기준 문서화
+- GitHub Actions 기반 Campfire PR 알림과 이슈·PR 템플릿 구성
+
+[프로젝트 살펴보기 →](https://github.com/likelion-backendschool-9th/REMAKE) · [CI 작업 PR →](https://github.com/likelion-backendschool-9th/REMAKE/pull/18) · [알림 작업 PR →](https://github.com/likelion-backendschool-9th/REMAKE/pull/19)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-dark-v6.svg" />
+  <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-analytics-light-v5.svg" width="100%" alt="GitHub Analytics" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E2E8F0&icon_color=94A3B8&text_color=E2E8F0&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidLee534&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&icon_color=334155&text_color=0F172A&border_radius=8" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=0B1220&title_color=E2E8F0&text_color=E2E8F0&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLee534&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=0F172A&border_radius=8" height="165" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=0B1220&stroke=334155&ring=E2E8F0&fire=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
+  <img src="https://streak-stats.demolab.com?user=DavidLee534&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0F172A&fire=334155&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
+</picture>
+
+</div>
 
 <br />
 

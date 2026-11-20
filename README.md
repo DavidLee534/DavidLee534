@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=220&section=header&text=SANGHO%20LEE&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%26%20SPRING&descSize=14&descAlignY=55" width="100%" alt="Sangho Lee — Backend Developer" />
+<img src="./assets/banner.svg" width="100%" alt="Sangho Lee — Backend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" alt="Typing headline" />
 

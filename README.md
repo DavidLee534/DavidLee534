@@ -190,29 +190,6 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 <br />
 
-### Problem Solving · 문제 해결 기록
-
-#### 메뉴 이름 일부로도 검색할 수 있도록
-
-- **문제** · 메뉴 이름의 일부를 입력했을 때 기대한 메뉴가 검색되지 않았습니다.
-- **원인** · 전달된 검색어와 조회 조건을 비교해 완전일치 조건을 확인했습니다.
-- **해결** · 메뉴 이름에 검색어가 포함되는 LIKE 조건으로 변경했습니다.
-- **결과** · 메뉴 이름 전체를 입력하지 않아도 관련 메뉴를 찾을 수 있도록 개선했습니다.
-
-<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20%EA%B2%80%EC%83%89%20%EC%BF%BC%EB%A6%AC-475569?style=flat-square&logo=github&logoColor=white" alt="현재 검색 쿼리 보기" /></a>
-<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/service/admin/DfMenuService.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20%EA%B2%80%EC%83%89%20%EC%A1%B0%EA%B1%B4-475569?style=flat-square&logo=github&logoColor=white" alt="검색 조건 처리 보기" /></a>
-
-#### 메뉴 조회에서 발생한 N+1 개선
-
-- **문제** · 메뉴 목록을 조회한 뒤 연관된 카테고리를 읽을 때 추가 조회가 발생했습니다.
-- **확인** · Hibernate SQL 로그로 메뉴 조회와 카테고리 조회 흐름을 확인했습니다.
-- **해결** · fetch join으로 메뉴와 카테고리를 함께 조회하도록 변경했습니다.
-- **결과** · 해당 목록 조회에서 카테고리 접근으로 발생하는 추가 쿼리를 줄였습니다.
-
-<a href="https://github.com/DavidLee534/ncafe7-team-4/blob/develop/backend/src/main/java/com/newcafe/backend/repository/MenuRepository.java"><img src="https://img.shields.io/badge/Code%20%C2%B7%20Fetch%20Join-475569?style=flat-square&logo=github&logoColor=white" alt="fetch join 적용 코드 보기" /></a>
-
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-light-v5.svg" width="100%" alt="Learning Focus" />

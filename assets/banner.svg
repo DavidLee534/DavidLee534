@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Sangho Lee — Backend Developer">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="0%" stop-color="#071018"/>
       <stop offset="100%" stop-color="#0F766E"/>
     </linearGradient>
     <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#99F6E4" stop-opacity="0.2"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="320" fill="url(#bg)"/>
   <path d="M0 230 C 200 190, 400 270, 600 230 S 1000 180, 1200 220 L 1200 320 L 0 320 Z" fill="url(#wave)"/>
-  <path d="M0 250 C 220 210, 420 290, 640 250 S 980 200, 1200 240" fill="none" stroke="#2DD4BF" stroke-opacity="0.45" stroke-width="2"/>
-  <text x="600" y="130" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">SANGHO LEE</text>
-  <text x="600" y="180" text-anchor="middle" fill="#99F6E4" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">BACKEND DEVELOPER  ·  JAVA &amp; SPRING</text>
+  <path d="M0 250 C 220 210, 420 290, 640 250 S 980 200, 1200 240" fill="none" stroke="#5EEAD4" stroke-opacity="0.7" stroke-width="2.5"/>
+  <text x="600" y="128" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="3">SANGHO LEE</text>
+  <text x="600" y="182" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">BACKEND DEVELOPER  ·  JAVA &amp; SPRING</text>
 </svg>

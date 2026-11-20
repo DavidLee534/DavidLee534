@@ -6,13 +6,13 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Infra%20%C2%B7%20Backend;Learning%20by%20shipping" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Infra%20%C2%B7%20Backend;Learning%20by%20shipping" alt="Typing headline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Backend%20%C2%B7%20AI%20%C2%B7%20Tools;Learning%20by%20shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Backend%20%C2%B7%20AI%20%C2%B7%20Tools;Learning%20by%20shipping" alt="Typing headline" />
 </picture>
 
 **코드에서 실행 환경까지, 서비스의 흐름을 이해하는 개발자를 지향합니다.**
 
-언어와 백엔드, CS 기초와 인프라까지 넓게 공부하며,<br />
+CS·백엔드·AI·협업 노트를 교재형으로 정리하며,<br />
 로그와 데이터를 바탕으로 문제의 원인을 확인하는 습관을 쌓고 있습니다.
 
 <p>
@@ -58,11 +58,11 @@
 </picture>
 
 - **Languages** · Java와 Python을 포함해 언어 문법과 실습을 병행하고 있습니다.
-- **Backend** · Spring Boot를 포함한 웹 서비스와 API 흐름을 공부하고 있습니다.
-- **Computer Science** · 자료구조, 알고리즘, 운영체제, 네트워크 기초를 정리하고 있습니다.
-- **Infrastructure** · Docker와 서버 구성을 실습하며 서비스 실행 환경을 이해하고 있습니다.
+- **Backend** · Spring · NestJS · FastAPI를 병렬로 두고 요청·DI·ORM·인증·테스트를 정리했습니다.
+- **Computer Science** · 자료구조부터 설계 패턴까지 CS 교재 트랙을 Ready로 정리했습니다.
+- **AI / ML** · 학습·평가·임베딩과 LLM·RAG·에이전트 개념을 짧은 코드와 함께 정리했습니다.
+- **Collaboration** · Git·PR·리뷰·문서·CI 습관을 협업 교재 트랙으로 정리했습니다.
 - **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
-- **Collaboration** · 팀 프로젝트에서 브랜치와 Pull Request를 활용해 협업한 경험이 있습니다.
 
 <br />
 
@@ -82,6 +82,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
@@ -195,16 +197,19 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-learning-light-v5.svg" width="100%" alt="Learning Focus" />
 </picture>
 
-| 주제 | 학습 방향 |
-| :--- | :--- |
-| Languages | Java, Python 문법과 실습 |
-| Backend | Spring Boot, API, 데이터 조회와 쿼리 개선 |
-| Computer Science | 자료구조, 알고리즘, HTTP, 운영체제 기초 |
-| Infrastructure | Docker, 네트워크, 서버 실행 환경 |
+| 주제 | 학습 방향 | 노트 |
+| :--- | :--- | :--- |
+| Computer Science | 자료구조 · 알고리즘 · OS · 네트워크 · DB 이론 · 설계 패턴 | [cs/](https://github.com/DavidLee534/dev-study/tree/main/cs) Ready |
+| Backend | Spring · NestJS · FastAPI 병렬 (요청·DI·ORM·인증·테스트) | [backend/](https://github.com/DavidLee534/dev-study/tree/main/backend) Ready |
+| AI / ML | 학습·평가·임베딩 · LLM · RAG · 에이전트 (Python 스니펫) | [ai/](https://github.com/DavidLee534/dev-study/tree/main/ai) Ready |
+| Collaboration | Git · PR · 리뷰 · 문서 · IDE · CI 습관 | [tools/](https://github.com/DavidLee534/dev-study/tree/main/tools) Ready |
+| Languages | Java, Python 문법과 실습 | [language/](https://github.com/DavidLee534/dev-study/tree/main/language) |
+| Next | Frontend · Database · Infra · Security 교재화 | Outline 예정 |
 
 ### Study Notes · 학습 기록
 
-개념을 이해하고 직접 실습한 내용을 주제별로 정리합니다.
+개념을 이해하고 직접 실습한 내용을 주제별로 정리합니다.  
+교재형 노트: **CS · Backend · AI · Tools** Ready.
 
 <a href="https://github.com/DavidLee534/dev-study"><img src="https://img.shields.io/badge/Study%20Notes-2563EB?style=flat-square&logo=github&logoColor=white" alt="학습 저장소 살펴보기" /></a>
 <a href="https://golden534.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="티스토리 기술 블로그" /></a>

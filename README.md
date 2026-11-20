@@ -11,8 +11,8 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=0D9488&style=flat" alt="Profile views" />
 
-<a href="https://github.com/DavidLee534"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
+<a href="https://github.com/DavidLee534"><img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/DavidLee534?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0D9488?style=flat-square&logo=github&logoColor=white" alt="Explore Projects" /></a>
 
 </div>
 
@@ -32,20 +32,20 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 **Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Java_21-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-0F766E?style=flat-square" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 **Tools & Environment**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Gradle-475569?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-64748B?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />

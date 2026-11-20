@@ -234,15 +234,6 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 <br />
 
-### Education & Awards · 교육과 수상
-
-| 구분 | 내용 |
-| :--- | :--- |
-| 교육 | 멋쟁이사자처럼 백엔드스쿨 9기 · Java와 Spring 기반 백엔드 학습 및 팀 프로젝트 |
-| 수상 | 2022 충북 ICT 성과발표회 · Python 비행기 슈팅 게임 출품 및 수상 |
-
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-dark-v6.svg" />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-light-v5.svg" width="100%" alt="footer" />

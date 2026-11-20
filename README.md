@@ -6,14 +6,14 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL;Learning%20by%20shipping" alt="Typing headline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Infra%20%C2%B7%20Backend;Learning%20by%20shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=0F172A&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=BACKEND%20DEVELOPER;Java%20%C2%B7%20Python%20%C2%B7%20Spring;CS%20%C2%B7%20Infra%20%C2%B7%20Backend;Learning%20by%20shipping" alt="Typing headline" />
 </picture>
 
 **코드에서 실행 환경까지, 서비스의 흐름을 이해하는 개발자를 지향합니다.**
 
-Java와 Spring Boot로 웹 서비스를 만들고,<br />
-로그와 데이터를 바탕으로 문제의 원인을 확인하며 배우고 있습니다.
+언어와 백엔드, CS 기초와 인프라까지 넓게 공부하며,<br />
+로그와 데이터를 바탕으로 문제의 원인을 확인하는 습관을 쌓고 있습니다.
 
 <img src="https://komarev.com/ghpvc/?username=DavidLee534&label=Profile%20views&color=334155&style=flat" alt="Profile views" />
 
@@ -29,9 +29,11 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-about-light-v5.svg" width="100%" alt="About Me" />
 </picture>
 
-- **Backend** · Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
-- **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
+- **Languages** · Java와 Python을 포함해 언어 문법과 실습을 병행하고 있습니다.
+- **Backend** · Spring Boot를 포함한 웹 서비스와 API 흐름을 공부하고 있습니다.
+- **Computer Science** · 자료구조, 알고리즘, 운영체제, 네트워크 기초를 정리하고 있습니다.
 - **Infrastructure** · Docker와 서버 구성을 실습하며 서비스 실행 환경을 이해하고 있습니다.
+- **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
 - **Collaboration** · 팀 프로젝트에서 브랜치와 Pull Request를 활용해 협업한 경험이 있습니다.
 
 <br />
@@ -41,10 +43,16 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
   <img src="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/section-stack-light-v5.svg" width="100%" alt="Tech Stack" />
 </picture>
 
-**Backend**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Java_21-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Python-16A34A?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**Backend**
+
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -102,7 +110,13 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 - 완전일치 조회 조건을 수정해 메뉴 이름 부분검색 지원
 - Hibernate 로그로 N+1 문제를 확인하고 fetch join 적용
 
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker Compose`
+<p>
+  <img src="https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-16A34A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-475569?style=flat-square" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker_Compose-0EA5E9?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/ncafe7-team-4)
 
@@ -121,7 +135,12 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 - 파일 업로드·폴더 생성·파일 목록 조회 기능 구현
 - Windows에서 서버를 실행하고 Mac에서 로컬 네트워크 접속 검증
 
-`Java 21` `Embedded Tomcat` `Servlet` `Maven`
+<p>
+  <img src="https://img.shields.io/badge/Java_21-EA580C?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Embedded_Tomcat-475569?style=flat-square" alt="Embedded Tomcat" />
+  <img src="https://img.shields.io/badge/Servlet-334155?style=flat-square" alt="Servlet" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/igloo-server)
 
@@ -134,10 +153,10 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 | 주제 | 학습 방향 |
 | :--- | :--- |
-| Spring & JPA | 요청 처리 흐름, 데이터 조회와 쿼리 개선 |
-| Authentication | Spring Security와 JWT 인증 흐름 |
+| Languages | Java, Python 문법과 실습 |
+| Backend | Spring Boot, API, 데이터 조회와 쿼리 개선 |
+| Computer Science | 자료구조, 알고리즘, HTTP, 운영체제 기초 |
 | Infrastructure | Docker, 네트워크, 서버 실행 환경 |
-| Computer Science | HTTP, 데이터베이스, 운영체제 기초 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidLee534/DavidLee534/main/assets/footer-dark-v5.svg" />

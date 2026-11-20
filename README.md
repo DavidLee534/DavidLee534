@@ -16,16 +16,18 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## About Me
+<img src="./assets/section-about.svg" width="100%" alt="About Me" />
 
 - **Backend** · Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
 - **Problem Solving** · 요청 흐름과 조회 조건, 실행 로그를 확인하며 문제를 해결합니다.
 - **Infrastructure** · Docker와 서버 구성을 실습하며 서비스 실행 환경을 이해하고 있습니다.
 - **Collaboration** · 팀 프로젝트에서 브랜치와 Pull Request를 활용해 협업한 경험이 있습니다.
 
-## Tech Stack
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-stack.svg" width="100%" alt="Tech Stack" />
 
 **Backend**
 
@@ -46,7 +48,9 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-## GitHub Analytics
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -57,7 +61,9 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 </div>
 
-## Selected Projects
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-projects.svg" width="100%" alt="Selected Projects" />
 
 ### 01 · Nyan Cafe
 **카페 웹 서비스 | 팀 프로젝트**
@@ -73,7 +79,7 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/ncafe7-team-4)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 02 · Resuit
 **개발자 소통과 이력서 피드백을 연결하는 SNS | 팀 프로젝트**
@@ -82,7 +88,7 @@ Java와 Spring Boot로 웹 서비스를 만들고,<br />
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/Resuit_Prj)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 03 · Igloo
 **개인 파일 서버 | 개인 프로젝트**
@@ -96,7 +102,9 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 
 [저장소 살펴보기 →](https://github.com/DavidLee534/igloo-server)
 
-## Learning Focus
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/section-learning.svg" width="100%" alt="Learning Focus" />
 
 | 주제 | 학습 방향 |
 | :--- | :--- |
@@ -105,6 +113,4 @@ Java 내장 Tomcat과 Servlet으로 파일 서버를 구현했습니다.
 | Infrastructure | Docker, 네트워크, 서버 실행 환경 |
 | Computer Science | HTTP, 데이터베이스, 운영체제 기초 |
 
-<div align="center">
-  <sub>문제를 확인하고, 원인을 이해하고, 개선한 내용을 기록합니다.</sub>
-</div>
+<img src="./assets/footer.svg" width="100%" alt="footer" />

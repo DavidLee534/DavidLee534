@@ -3,7 +3,7 @@
 <style>.bg{fill:url(#bg)}.border{stroke:#dbe3ee}.title{fill:#0f172a}.body{fill:#526176}.muted{fill:#64748b}.line{stroke:#e2e8f0}@media(prefers-color-scheme:dark){.bg{fill:#111b2b}.border{stroke:#2c3d55}.title{fill:#f1f5f9}.body{fill:#becbdd}.muted{fill:#93a5bd}.line{stroke:#2c3d55}}</style>
 <rect x="1" y="1" width="358" height="182" rx="18" class="bg border" stroke-width="1.5"/>
 <rect x="24" y="22" width="4" height="12" rx="2" fill="#F26445"/>
-<text x="38" y="32" class="muted" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.6">THOUGHTS & EXPERIENCE</text>
+<text x="38" y="32" class="muted" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.6">THOUGHTS &amp; EXPERIENCE</text>
 <g transform="translate(0 23)" color="#F26445"><path d="M27 28h22M38 28v23" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><circle cx="52" cy="51" r="3" fill="currentColor"/></g>
 <text x="80" y="77" class="title" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Tistory</text>
 <text x="24" y="111" class="body" font-family="Malgun Gothic,Apple SD Gothic Neo,sans-serif" font-size="15">개발하며 배운 내용을 기록합니다.</text>
